@@ -1,0 +1,3 @@
+.fromCss::after {
+	content: 'this is from css';
+}
