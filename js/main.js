@@ -3,4 +3,4 @@ function fillContent() {
 	elem.innerHTML = 'this is from JavaScript';
 }
 
-(fillContent())();
+fillContent();
